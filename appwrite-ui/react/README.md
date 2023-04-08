@@ -10,14 +10,14 @@
 1. [Auth Providers](#auth-providers)
 1. [Contributing](#contributing)
 
-##Demo {#demo}
+##Demo{#demo}
 You can see the demo of the Appwrite UI Auth Components for Web [here](https://appwrite-ui-react.vercel.app).
 ![](./images//auth-components.png)
 
-##About {#about}
+##About{#about}
 Appwrite UI is an open source React library that provides a set of reusable components for building your own UI for Appwrite. It is built on top of React and [Appwrite Javascript SDK](https://github.com/appwrite/sdk-for-web).
 
-### Features {#features}
+### Features{#features}
 Appwrite UI Auth Components for Web includes a range of features to simplify the process of implementing authentication and user management in your React projects. Some of the key features include:
 
 - A collection of pre-built, fully styled authentication components, including email and phone number login.
